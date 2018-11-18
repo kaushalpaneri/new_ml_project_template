@@ -1,4 +1,3 @@
-# New Machine Learning Project Template
+# result
 
-
-This contains a blank template of a structure of a ML project
+results (visualizations, predictions etc..)

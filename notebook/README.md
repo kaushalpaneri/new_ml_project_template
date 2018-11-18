@@ -1,4 +1,4 @@
-# New Machine Learning Project Template
+# notebook
 
 
-This contains a blank template of a structure of a ML project
+This folder contains notebook explaining the demo or PoC.

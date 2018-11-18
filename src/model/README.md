@@ -1,4 +1,3 @@
-# New Machine Learning Project Template
+# src/model
 
-
-This contains a blank template of a structure of a ML project
+Scripts to define and declare models

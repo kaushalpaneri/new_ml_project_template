@@ -1,4 +1,4 @@
-# New Machine Learning Project Template
+# data
 
 
-This contains a blank template of a structure of a ML project
+This folder contains data generated or used by models. Large files should be in gitignore.

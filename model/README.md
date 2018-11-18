@@ -1,4 +1,4 @@
-# New Machine Learning Project Template
+# model
 
 
-This contains a blank template of a structure of a ML project
+This folder stores json/binary files containing final model information and parameters

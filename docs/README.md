@@ -1,4 +1,11 @@
-# New Machine Learning Project Template
+# docs
 
 
-This contains a blank template of a structure of a ML project
+This folder contains all the related documents like
+
+* Write-up
+* Project reports
+* Project Status
+* Charts
+* Presentations
+* images
